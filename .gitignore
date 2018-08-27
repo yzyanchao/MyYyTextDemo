@@ -1,9 +1,10 @@
 .DS_Store
 
 *.xcuserstate
-project.xcworkspace
+MyYyTextDemo.xcworkspace
 xcuserdata
 UserInterfaceState.xcuserstate
-project.xcworkspace/
 xcuserdata/
 UserInterface.xcuserstate
+Pods/
+
