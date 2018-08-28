@@ -14,4 +14,7 @@
 
 @property (nonatomic, strong) YYLabel *myLabel;
 
+- (void)setData:(NSString *)data;
+- (CGFloat)heightForMyLabel;
+
 @end
